@@ -1,4 +1,4 @@
-<h1 align="center">そのメイキー <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Demon Night Was Hare!</h1>
+<h1 align="center">そのメイキー <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>DemonNight Was Here!</h1>
 
 <p align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvCcBnb5Zo-t94CIitVjftdPbrK6h05AA6xQ&usqp=CAU" width="100%" alt="API Giphy logo"/>
@@ -42,16 +42,16 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-ItsmeikyXSec404-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/WgeItwiifYs" /></a>
+  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-DemonNight-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/WgeItwiifYs" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
 </p> 
  #sosial media
 
 
-* [`WhatsApp Admin `](https://wa.me/6281281872699)
+* [`WhatsApp Admin `](https://wa.me/6281219144171)
 
-* [`ShizukaAPIs `](https://api.shizukaa.xyz/)
+* [`dn7BOTAPIs `](https://api.shizukaa.xyz/)
 
 * [`Website BOT`](https://shizukaa.xyz)
 
